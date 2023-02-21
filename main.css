@@ -1,0 +1,23 @@
+.all {
+    cursor: pointer;
+}
+
+#photoViewer {
+    margin: 0 auto;
+    background-color: bisque;
+}
+
+.actions {
+    margin-top: 5px;
+    text-align: center;
+}
+
+.currentImage {
+    text-align: center;
+}
+
+.images {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
